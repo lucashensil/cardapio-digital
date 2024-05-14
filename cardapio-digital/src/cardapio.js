@@ -1,20 +1,20 @@
-import enroladinhoMignonImg from './assets/pratos/enroladinho-mignon.jpeg';
-import casal20Img from './assets/pratos/casal-20.jpeg';
-import burguerPicanhaImg from './assets/pratos/burguer-picanha.jpeg';
-import fishChipsImg from './assets/pratos/fish-chips.jpeg';
-import risotoCamaraoTrufadoImg from './assets/pratos/risoto-camarao-trufado.jpeg';
+import enroladinhoMignonImg from '../assets/pratos/enroladinho-mignon.jpeg';
+import casal20Img from '../assets/pratos/casal-20.jpeg';
+import burguerPicanhaImg from '../assets/pratos/burguer-picanha.jpeg';
+import fishChipsImg from '../assets/pratos/fish-chips.jpeg';
+import risotoCamaraoTrufadoImg from '../assets/pratos/risoto-camarao-trufado.jpeg';
 
-import brownieImg from './assets/sobremesas/brownie.jpeg';
-import cocadaFornoImg from './assets/sobremesas/cocada-forno.jpeg';
-import petitGateauImg from './assets/sobremesas/petit-gateau.jpeg';
+import brownieImg from '../assets/sobremesas/brownie.jpeg';
+import cocadaFornoImg from '../assets/sobremesas/cocada-forno.jpeg';
+import petitGateauImg from '../assets/sobremesas/petit-gateau.jpeg';
 
-import aguaSemGasImg from './assets/bebidas/agua-sem-gas.jpeg';
-import aguaComGasImg from './assets/bebidas/agua-com-gas.jpeg';
-import cocaColaImg from './assets/bebidas/coca-cola.jpeg';
-import guaranaImg from './assets/bebidas/guarana.jpeg';
-import heinekenImg from './assets/bebidas/heineken.jpeg';
+import aguaSemGasImg from '../assets/bebidas/agua-sem-gas.jpeg';
+import aguaComGasImg from '../assets/bebidas/agua-com-gas.jpeg';
+import cocaColaImg from '../assets/bebidas/coca-cola.jpeg';
+import guaranaImg from '../assets/bebidas/guarana.jpeg';
+import heinekenImg from '../assets/bebidas/heineken.jpeg';
 
-export const enroladinhoMignon = {
+const enroladinhoMignon = {
   nome: 'Enroladinho de Mignon',
   preco: 'R$ 64,90',
   imagem: enroladinhoMignonImg,
